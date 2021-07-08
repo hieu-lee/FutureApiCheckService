@@ -1,6 +1,6 @@
 <h1>FutureApiCheckService</h1>
 
-<p>This is a service to keep the Apis of FutureMe working</p>
+<p>This is a service to keep the Apis of FutureMe working by calling the 2 apis each 5 min</p>
 <p>To install and run the service on your PC, following these following steps:</p>
 <ol>
   <li>Download the FutureMeApiCheckService.rar file found in the Release section of the repo and extract it, after extracting you can delete the .rar file</li>
